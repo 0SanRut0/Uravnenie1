@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name ="a">a</string>
+    <string name ="b">b</string>
+    <string name ="c">c</string>
+    <string name ="button">получить корни</string>
+    <string name ="x">x^2+</string>
+    <string name ="xx">x+</string>
+    <string name ="xxx">=0</string>
+</resources>
